@@ -42,7 +42,7 @@ In this project, you'll work with a pre-built AI Insights & Content Agent and re
 
 - ✅ Tested 4 System Message variations with the same input data
 - ✅ Generated comparison document with all outputs
-- ✅ Google Doc created: [Project4_CreativeOutputs](https://docs.google.com/open?id=15VvEtWNNzFoyMgUbHr_xM35rNXH-MWJxvxf8NGyQojI)
+- ✅ Google Doc created: [Project4_CreativeOutputs]
 - ✅ Screenshot: `screenshots/project4/system_variation_analysis_doc.png`
 - ✅ Documented tone differences, content focus shifts, and notable changes
 - ✅ Completed submission questions
@@ -52,7 +52,7 @@ In this project, you'll work with a pre-built AI Insights & Content Agent and re
 - ✅ Final System Message refined: `final_system_message.md`
 - ✅ Generated final content output: `final_content_output.html`
 - ✅ Exported final PDF report: `final_ai_insights_content_report.pdf`
-- ✅ Loom video walkthrough recorded: [Workflow &amp; Output Demo](https://www.loom.com/share/088acce7cad74119a47e76129c9a0286)
+- ✅ Loom video walkthrough recorded: [Workflow &amp; Output Demo]
 - ✅ All screenshots and documentation organized
 
 ## Test Input

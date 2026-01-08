@@ -83,8 +83,8 @@ Each project builds on the last:
 *Web scraping workflow for product data extraction*
 
 **Documentation & Reports:**
-- [Final Trend Report](./docs/project2/final_trend_report.pdf) - Generated trend analysis report from competitor analysis
-- [System Messages Management](./docs/project2/system_messages_management.pdf) - System message variations and experiments (Step 6)
+- [Final Trend Report] - Generated trend analysis report from competitor analysis
+- [System Messages Management] - System message variations and experiments (Step 6)
 
 **Skills learned:** Intent detection and workflow routing, RSS feed aggregation, API integration (Google Custom Search), web scraping (product/collection pages), data normalization and merging, system message design for AI agents, HTML report generation, end-to-end AI agent architecture
 
@@ -110,9 +110,9 @@ Each project builds on the last:
 *Wayfair product data extraction workflow*
 
 **Documentation & Reports:**
-- [Final Competitor Report (PDF)](./docs/project3/competitor_monitoring_agent_report.pdf) - Generated competitive intelligence report
-- [Final Competitor Report (HTML)](./docs/project3/final_competitor_report.html) - HTML version of the report
-- [Competitor Analysis Data](./docs/project3/competitor_manual_analysis_data.csv) - 22 observations from manual analysis
+- [Final Competitor Report (PDF)] - Generated competitive intelligence report
+- [Final Competitor Report (HTML)] - HTML version of the report
+- [Competitor Analysis Data] - 22 observations from manual analysis
 
 **Skills learned:** Manual competitive analysis, multi-source web scraping (Wayfair + Amazon), data merging and normalization, resilient scraper architecture (Fallback Scraper), system message experimentation, competitive intelligence report generation, signal vs noise analysis
 
@@ -149,15 +149,6 @@ Each project builds on the last:
 
 ![System Variation Analysis](./screenshots/project4/system_variation_analysis_doc.png)
 *Testing different system message variations to match Wayfair's brand voice*
-
-**Documentation & Reports:**
-- [Final System Message](./docs/project4/final_system_message.md) - Refined system message with brand voice alignment
-- [System Message Variations](./docs/project4/system_message_variations.md) - All 4 variations tested
-- [Wayfair Brand Voice Analysis](./docs/project4/wayfair_voice_analysis.md) - Analysis of Wayfair's content and voice
-- [Final Content Output (HTML)](./docs/project4/final_content_output.html) - Generated blog post and Instagram captions
-- [Final AI Insights Report (PDF)](./docs/project4/final_ai_insights_content_report.pdf) - PDF version of generated content
-- [Creative Outputs Comparison](https://docs.google.com/open?id=15VvEtWNNzFoyMgUbHr_xM35rNXH-MWJxvxf8NGyQojI) - Google Doc comparing all 4 variations
-- [Loom Video Walkthrough](https://www.loom.com/share/088acce7cad74119a47e76129c9a0286) - Full workflow demo
 
 **Skills learned:** Brand voice analysis and translation, system message engineering and prompt design, creative content generation from data insights, A/B testing system message variations, HTML/CSS formatting for AI outputs, debugging web scraping (URL detection, domain variations, bot protection), transforming analytical data into storytelling content, balancing aspiration with relatability in brand messaging
 
@@ -209,25 +200,6 @@ Each project builds on the last:
   - `agentId = 2`: Project 2 (Trend Discovery Agent) → 1_TrendSignals sheet
   - `agentId = 3`: Project 3 (Competitor Monitoring Agent) → 2_CompetitorMoves sheet
   - `agentId = 4`: Project 4 (AI Insights & Content Agent) → 3_Allinsights sheet
-
-**Screenshots:**
-
-![Supabase Table Editor](./screenshots/project5/supabase_table_editor.png)
-*Supabase table with data from all 3 agents (agentId 2, 3, 4)*
-
-![Update Sheet Workflow](./screenshots/project5/update_sheet_workflow.png)
-*n8n Project 5 workflow with Google Sheets Update nodes configured*
-
-![Google Sheets Dashboard](./screenshots/project5/google_sheets_after_execution.png)
-*Live Google Sheets dashboard with real-time data from all agents*
-
-**Live Dashboard:**
-- [Google Sheets Dashboard](https://docs.google.com/spreadsheets/d/1oSmzk_YLSVHZZ1UQmBH9Z7b0fNJv9Wcesk4UbQ0IIZo/edit?gid=0#gid=0) - Real-time Market Intelligence Dashboard
-
-**Final Deliverables:**
-- [Final Presentation PDF](./docs/project5/final_presentation.pdf) ✅
-- [Project Recap](./docs/project5/PROJECT_RECAP.md) - Reflection on the entire externship journey
-- [Project 5 README](./docs/project5/README.md) - Complete integration guide and documentation
 
 **Technical Challenges Resolved:**
 - Fixed OAuth "invalid_client" error by creating new OAuth Client ID with correct redirect URI for local n8n
@@ -281,9 +253,3 @@ All 5 projects successfully completed, integrated, and documented. The Market In
 - ✅ Resolved technical challenges (OAuth, JSON parsing, workflow recovery)
 - ✅ Completed final presentation and project recap
 
-**Final Deliverables:**
-- [Final Presentation PDF](./docs/project5/final_presentation.pdf)
-- [Project Recap & Reflection](./docs/project5/PROJECT_RECAP.md)
-- [Live Dashboard](https://docs.google.com/spreadsheets/d/1oSmzk_YLSVHZZ1UQmBH9Z7b0fNJv9Wcesk4UbQ0IIZo/edit?gid=0#gid=0)
-
-**Project Emoji:** 🚀 = launched my confidence

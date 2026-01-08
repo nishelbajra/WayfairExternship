@@ -574,10 +574,6 @@ Run all three workflows end-to-end, verify Google Sheet updates accurately, and 
 
 **Status:** ⏳ In Progress
 
-**Deliverables:**
-- ✅ Google Sheets Dashboard: https://docs.google.com/spreadsheets/d/1oSmzk_YLSVHZZ1UQmBH9Z7b0fNJv9Wcesk4UbQ0IIZo/edit?gid=0#gid=0
-- ⏳ Loom Recording URL: (to be added)
-
 **Reflection on Information → Intelligence:**
 - See `docs/project5/REFLECTION.md` for detailed insights
 
@@ -653,11 +649,7 @@ Where everything comes together.
 - 💡 **Improvements**: Suggestions for next versions
 - 📎 **Attachments**:
   - JSON Workflow (upload to Google Drive, add link)
-  - Google Sheets Dashboard Link: https://docs.google.com/spreadsheets/d/1oSmzk_YLSVHZZ1UQmBH9Z7b0fNJv9Wcesk4UbQ0IIZo/edit?gid=0#gid=0
   - **Important**: Give view access to the Google Sheet
-
-![Google Sheets Dashboard](screenshots/project5/google_sheets_after_execution.png)
-*The integrated dashboard showing data from all three agents*
 
 #### Slide 8: Reflections & Future Improvements
 Your chance to show learning depth and professional maturity.

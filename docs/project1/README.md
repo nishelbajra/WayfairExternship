@@ -1,7 +1,7 @@
 # Project 1: Moodboard Generator Agent
 
 **Wayfair AI Automation Externship (via Extern)**  
-**Student:** Rayyan Oumlil
+**Student:** Nishel Ratna Bajracharya 
 
 ---
 

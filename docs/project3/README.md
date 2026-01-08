@@ -9,7 +9,6 @@ Project 3 focuses on building an AI agent that monitors competitors by scraping 
 ## Documentation
 
 - Step 1: Manual competitor analysis (Google Sheet) - Completed
-  - Google Sheet: [Amazon Competitor Analysis](https://docs.google.com/spreadsheets/d/1qH_1c6fDD_41bjWM4s7QLwOeJkQ-4k9OiHDDOoguqtI/edit?usp=sharing)
   - CSV Data: `competitor_manual_analysis_data.csv` (22 observations exported from Google Sheet)
   - Screenshot: `../screenshots/project3/step1_competitor_analysis_sheet.png`
   - Google Apps Script: `../../create_competitor_analysis_sheet.js` (script to generate the Google Sheet)
